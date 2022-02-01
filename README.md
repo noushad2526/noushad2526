@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noushad2526
+- 👋 Hi, I’m Noushad Alam
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning full stack developer in java
 - 📫 Reach me: noushad2526@gmail.com 
